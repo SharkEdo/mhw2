@@ -7,4 +7,4 @@
 mini-homework 2
 ### General Info
 ***
-Le immagini sono dentro la cartelle 'Images' per tenere la repository più pulita, ed ho caricato come da specifiche i file HTML, CSS e JS. Inoltre ho inserito anche il power point come presentazione, sempre seguendo le specifiche.
+Le immagini sono dentro la cartelle 'Images' per tenere la repository più pulita, ed ho caricato come da specifiche i file HTML, CSS e JS.
